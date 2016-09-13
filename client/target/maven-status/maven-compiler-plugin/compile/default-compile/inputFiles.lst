@@ -1,0 +1,10 @@
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/Client.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/SerializerDefinition.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/dto/TTransaction.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/ThriftSerializer.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/Serializer.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/dto/TSqlMetaData.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/dto/TStringMetaData.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/MemoryBuffer.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/DefaultSerializerFactory.java
+/Users/Yorkart/ProjectWorkspace/GitHub/net.udp/client/src/main/java/me/yorkart/net/socket/udp/client/rpc/SerializerFactory.java
